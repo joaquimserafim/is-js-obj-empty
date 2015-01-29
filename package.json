@@ -1,6 +1,6 @@
 {
   "name": "is-js-obj-empty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checks the given js object is empty",
   "main": "index.js",
   "scripts": {
