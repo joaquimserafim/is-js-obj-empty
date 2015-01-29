@@ -1,6 +1,6 @@
 # is-js-obj-empty
 
-checks the given js object is empty and in the case to be empty should return false if isn't empty should return the js object
+checks the given js object is empty
 
 <a href="https://nodei.co/npm/is-empty-js-obj/"><img src="https://nodei.co/npm/is-js-obj-empty.png?downloads=true"></a>
 
