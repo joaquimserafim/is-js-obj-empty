@@ -21,7 +21,7 @@ checks the given js object is empty
 
 ## Development
 
-#####this projet has been set up with a precommit that forces you to follow a code style, no jshint issues and 100% of code coverage before commit
+##### this projet has been set up with a precommit that forces you to follow a code style, no jshint issues and 100% of code coverage before commit
 
 to run test
 ``` js
