@@ -11,6 +11,8 @@ checks the given **js object** is empty
 
 **isEmpty(*JS Object*)**
 
+> Returns a boolean
+
 ## Usage
 
 ```js
